@@ -1,1 +1,2 @@
 # ETL-Project
+Project uses Pandas to create multiple DataFrames from CSV files containing New York crime records and housing information data based on multiple factors, cleans those DataFrames, then uses SQL to create a relational database to join everything together
